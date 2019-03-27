@@ -22,6 +22,9 @@ https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/mindfulnes
 *RAIN technique for self-compassion*
 https://www.tarabrach.com/selfcompassion1/
 
+*Avleen Vig's LISA presentation "Don't Burn Out or Fade Away: Conquering Occupational Burnout"*
+https://www.usenix.org/conference/lisa16/conference-program/presentation/vig
+
 *Contribute to the growing body of knowlege: take the OSMI Mental Health in Tech Survey*
 https://osmihelp.org/research
 
